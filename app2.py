@@ -266,7 +266,7 @@ elif page == "Recommendations":
 
 
 # run this in the folder that contains your notebook
-get_ipython().system('jupyter nbconvert --to script "2_7_Presenting_Dashboard.ipynb" --output app2')
+# get_ipython().system('jupyter nbconvert --to script "2_7_Presenting_Dashboard.ipynb" --output app2')
 
 
 # In[ ]:
